@@ -1,5 +1,4 @@
 import React from 'react'
-import { IoMdClose } from "react-icons/io";
 
 const Accordion = ({title,content,isOpen,handleAccordian}) => {
   return (
